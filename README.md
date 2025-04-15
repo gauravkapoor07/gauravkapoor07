@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kapoor</h1>
 <h3 align="center">A passionate Artificial intelligence and Machine learning Student</h3>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gauravkapoor07)
 
 - 🌱 I’m currently learning - **Machine Learning and Data Structure and Algorithms**
 
