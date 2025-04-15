@@ -8,6 +8,8 @@
 - 📫 How to reach me:
 Email Id - **gauravk7d0101@gmail.com**
 
+- Upwork - https://www.upwork.com/freelancers/~01d43f43b6d0ac0003
+
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-kapoor-901bb21bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kapoor-901bb21bb" height="30" width="40" /></a>
