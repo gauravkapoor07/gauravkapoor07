@@ -8,7 +8,7 @@
 - 📫 How to reach me:
 Email Id - **gauravk7d0101@gmail.com**
 
-- Upwork - https://www.upwork.com/freelancers/~01d43f43b6d0ac0003
+- Upwork Profile - https://www.upwork.com/freelancers/~01d43f43b6d0ac0003
 
 # 🌐 Socials:
 <p align="left">
