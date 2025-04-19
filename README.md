@@ -16,7 +16,7 @@ Email Id - **gauravk7d0101@gmail.com**
 <a href="https://stackoverflow.com/users/gaurav-kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gaurav-kapoor" height="30" width="40" /></a>
 <a href="https://instagram.com/kapoorgaurav_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapoorgaurav_7" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/gauravkapoor07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://twitter.com/kapoorgaurav_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/GauravK53626236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
